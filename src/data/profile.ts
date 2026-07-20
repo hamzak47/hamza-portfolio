@@ -20,7 +20,7 @@ export const profile = {
     'Data Engineering · Machine Learning · Cloud · Full-Stack',
   bio: 'I architect scalable data pipelines, machine learning systems, and cloud-native applications. With experience across pharma, fintech, and enterprise SaaS, I help teams turn complex data into actionable products.',
   email: 'mmhamzikhan2002@gmail.com',
-  phone: '+92 323 4282276',
+  phone: '+92 323 4319031',
   location: 'Lahore, Pakistan',
   linkedin: 'https://www.linkedin.com/in/adeel-khan-471135161/',
   fiverr: 'https://www.fiverr.com/hamzak47',
